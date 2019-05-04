@@ -1,0 +1,112 @@
+Result of part 2 - Both numerical and categorical
+True Negatives: 254
+True Positives: 1688
+False Negatives: 7
+False Positives: 299
+Accuracy: 0.8638790035587188
+Error: 0.13612099644128117
+Precision: 0.8495218922999497
+Recall: 0.9958702064896755
+F1-Score: 0.9168929929386204
+
+Max Nodes = 1
+True Negatives: 517
+True Positives: 1642
+False Negatives: 53
+False Positives: 36
+Accuracy: 0.9604092526690391
+Error: 0.03959074733096091
+Precision: 0.9785458879618594
+Recall: 0.9687315634218289
+F1-Score: 0.9736139934776163
+
+Max Nodes = 3
+True Negatives: 525
+True Positives: 1671
+False Negatives: 24
+False Positives: 28
+Accuracy: 0.9768683274021353
+Error: 0.02313167259786475
+Precision: 0.9835197174808711
+Recall: 0.9858407079646018
+F1-Score: 0.9846788450206246
+
+Max Nodes = 5
+True Negatives: 534
+True Positives: 1656
+False Negatives: 39
+False Positives: 19
+Accuracy: 0.9741992882562278
+Error: 0.025800711743772187
+Precision: 0.9886567164179104
+Recall: 0.9769911504424779
+F1-Score: 0.9827893175074184
+
+Max Nodes = 7
+True Negatives: 537
+True Positives: 1652
+False Negatives: 43
+False Positives: 16
+Accuracy: 0.9737544483985765
+Error: 0.0262455516014235
+Precision: 0.9904076738609112
+Recall: 0.9746312684365782
+F1-Score: 0.9824561403508771
+
+Max Nodes = 9
+True Negatives: 537
+True Positives: 1652
+False Negatives: 43
+False Positives: 16
+Accuracy: 0.9737544483985765
+Error: 0.0262455516014235
+Precision: 0.9904076738609112
+Recall: 0.9746312684365782
+F1-Score: 0.9824561403508771
+
+Max Nodes = 11
+True Negatives: 537
+True Positives: 1652
+False Negatives: 43
+False Positives: 16
+Accuracy: 0.9737544483985765
+Error: 0.0262455516014235
+Precision: 0.9904076738609112
+Recall: 0.9746312684365782
+F1-Score: 0.9824561403508771
+
+Max Nodes = 13
+True Negatives: 537
+True Positives: 1652
+False Negatives: 43
+False Positives: 16
+Accuracy: 0.9737544483985765
+Error: 0.0262455516014235
+Precision: 0.9904076738609112
+Recall: 0.9746312684365782
+F1-Score: 0.9824561403508771
+
+Max Nodes = 15
+True Negatives: 537
+True Positives: 1652
+False Negatives: 43
+False Positives: 16
+Accuracy: 0.9737544483985765
+Error: 0.0262455516014235
+Precision: 0.9904076738609112
+Recall: 0.9746312684365782
+F1-Score: 0.9824561403508771
+
+Max Nodes = 17
+True Negatives: 537
+True Positives: 1652
+False Negatives: 43
+False Positives: 16
+Accuracy: 0.9737544483985765
+Error: 0.0262455516014235
+Precision: 0.9904076738609112
+Recall: 0.9746312684365782
+F1-Score: 0.9824561403508771
+
+Max Nodes = 20
+Entropy: 2.9866844855529484Misclassification: 0.7205784204671858

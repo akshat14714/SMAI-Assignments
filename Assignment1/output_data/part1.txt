@@ -1,0 +1,11 @@
+Accuracy: 0.7620106761565836
+Error: 0.23798932384341642
+Precision: 1.0
+Recall: 0.0018656716417910447
+F1-Score: 0.0037243947858473
+True Negatives: 1712
+True Positives: 1
+False Negatives: 535
+False Positives: 0
+Entropy: 2.9874516996208738
+Misclassification: 0.721802002224694
